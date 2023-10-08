@@ -16,7 +16,7 @@
     <a href="https://www.instagram.com/nutzey_"><img src="resources/socials/instagram.png" width="27px"></a>&nbsp&nbsp&nbsp&nbsp
     <a href="https://www.youtube.com/channel/UCWHUu2yXtUbMsThbNK5SflQ"><img src="resources/socials/youtube.png" width="27px"></a>&nbsp&nbsp&nbsp&nbsp
     <a href="https://open.spotify.com/user/4goz2lanmfjwhs4btl1penlqh?si=dc115bbe4a9c40ae"><img src="resources/socials/spotify.png" width="27px"></a>&nbsp&nbsp&nbsp&nbsp
-    <a href="https://soundcloud.com/nutzey"><img src="resources/socials/soundcloud.png" width="27px"></a>&nbsp&nbsp&nbsp&nbsp&nbsp
+    <a href="https://soundcloud.com/nutzey"><img src="resources/socials/soundcloud.png" width="27px"></a>&nbsp&nbsp&nbsp&nbsp
 </p>
 
 ![Footer](resources/footer.png)
