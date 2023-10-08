@@ -1,16 +1,15 @@
 ![Header](resources/header.png)
 
 <p align="center"><img src="resources/profile_picture.png" width="150px"></p>
-<h1 align="center">H<span>i, I'm Nutz</span>ey!</p>
-<h5 align="center"></h5>
+<h3 align="center">Hi, I'm Nutzey!</h3>
 <p align="center">I'm a UI/UX Designer and a Java Developer.</p>
 
 <p align="center">&nbsp&nbsp&nbsp&nbsp
     <img src="https://github-readme-stats.vercel.app/api?username=nutzey&hide_title=true&count_private=true&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&icon_color=00FFFF&hide_rank=true&hide=contribs">
 </p>
 
-<h3 align="center">Che<span>ck out my soci</span>als!</p>
-<h5 align="center"></h3>
+<h3 align="center">Check out my socials!</h3>
+<h6 align="center"></h6>
 <p align="center">
     <a href="https://twitter.com/Nutzey_"><img src="resources/socials/twitter.png" width="27px"></a>&nbsp&nbsp&nbsp&nbsp
     <a href="https://www.instagram.com/nutzey_"><img src="resources/socials/instagram.png" width="27px"></a>&nbsp&nbsp&nbsp&nbsp
