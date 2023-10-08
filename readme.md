@@ -1,8 +1,7 @@
 ![Header](resources/header.png)
 
 <p align="center"><img src="resources/profile_picture.png" width="150px"></p>
-<h1 align="center">Hi, I'm Nutzey!</p>
-<h5 align="center"></h5>
+<h1 align="center">Hi, I'm Nutzey!</h1>
 <p align="center">I'm a UI/UX Designer and a Java Developer.</p>
 
 <p align="center">&nbsp&nbsp&nbsp&nbsp
@@ -10,7 +9,6 @@
 </p>
 
 <h3 align="center">Check out my socials!</p>
-<h5 align="center"></h3>
 <p align="center">
     <a href="https://twitter.com/Nutzey_"><img src="resources/socials/twitter.png" width="27px"></a>&nbsp&nbsp&nbsp&nbsp
     <a href="https://www.instagram.com/nutzey_"><img src="resources/socials/instagram.png" width="27px"></a>&nbsp&nbsp&nbsp&nbsp
