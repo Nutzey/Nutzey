@@ -1,7 +1,7 @@
 ![Header](resources/header.png)
 
 <p align="center"><img src="resources/profile_picture.png" width="150px"></p>
-<h1 align="center" id="_">Hi, I'm Nutzey!</p>
+<h1 align="center" href="https://github.com/">Hi, I'm Nutzey!</p>
 <h5 align="center" id="_"></h5>
 <p align="center">I'm a UI/UX Designer and a Java Developer.</p>
 
