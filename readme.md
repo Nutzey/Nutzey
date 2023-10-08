@@ -1,6 +1,6 @@
 ![Header](resources/header.png)
 
-<p align="center"><img src="resources/profile_picture.png" width="150px"></p>&nbsp&nbsp&nbsp
+<p align="center"><img src="resources/profile_picture.png" width="150px">&nbsp&nbsp&nbsp</p>
 <h3 align="center">Hi, I'm Nutzey!</h3>
 <p align="center">I'm a UI/UX Designer and a Java Developer.</p>
 
